@@ -19,7 +19,6 @@
 | Dr.Öğr.Üyesi Alper YILMAZ   | RABİA YILMAZ, TUĞBA NUR ÖZKAN              | 14   | 16:30         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ELİF NUR YILDIZ*, KADER DEREN               | 15   | 16:40         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN*, SHIFA ALHAMVİ*                  | 16   | 16:50         |
-
 |                             |                                            |      | 10 dakika ara |
 | Prof.Dr. Dilek TURGUT-BALIK | SEVGİSU EĞİLMEZ*                           | 17   | 17:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT* | 18   | 17:20         |
