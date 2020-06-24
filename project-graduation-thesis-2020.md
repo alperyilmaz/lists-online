@@ -1,4 +1,4 @@
-Project - June 25th Thursday
+# Project - June 25th Thursday
 
 | Danışman                    | Öğrenci(ler)                               | Sıra | Saat          |
 |-----------------------------|--------------------------------------------|------|---------------|
@@ -29,9 +29,7 @@ Project - June 25th Thursday
 
 \* 15.00 – 16.15 sınav
 
-
-
-Graduation Thesis - June 26th Friday
+# Graduation Thesis - June 26th Friday
 
 | Danışman                    | Öğrenci(ler)                                 | Sıra | Saat          |
 |-----------------------------|----------------------------------------------|------|---------------|
