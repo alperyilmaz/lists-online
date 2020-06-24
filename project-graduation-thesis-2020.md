@@ -61,4 +61,4 @@
 \** 16:00-17:40 mazaret sınavı
 
 
-*son güncelleme: 24 Haziran, 13:00*
+*son güncelleme: 24 Haziran, 19:00*
