@@ -14,11 +14,12 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | SENA HACER YAZAR                           | 10   | 15:30         |
 |                             |                                            |      | 20 dakika ara |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ASLI DANSIK                                | 11   | 16:00         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | ELİF NUR YILDIZ, KADER DEREN               | 12   | 16:10         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | EMİRHAN TEKOĞLU                            | 13   | 16:20         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | MEHMET GÜNEŞ                               | 14   | 16:30         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN, SHIFA ALHAMVİ                  | 15   | 16:40         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | RABİA YILMAZ, TUĞBA NUR ÖZKAN              | 16   | 16:50         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | EMİRHAN TEKOĞLU                            | 12   | 16:10         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | MEHMET GÜNEŞ                               | 13   | 16:20         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | RABİA YILMAZ, TUĞBA NUR ÖZKAN              | 14   | 16:30         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | ELİF NUR YILDIZ*, KADER DEREN               | 15   | 16:40         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN*, SHIFA ALHAMVİ*                  | 16   | 16:50         |
+
 |                             |                                            |      | 10 dakika ara |
 | Prof.Dr. Dilek TURGUT-BALIK | SEVGİSU EĞİLMEZ*                           | 17   | 17:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT* | 18   | 17:20         |
