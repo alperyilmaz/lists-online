@@ -1,3 +1,8 @@
+# Instructions
+
+* Please send your presentation file to your advisor prior 14:00 or during breaks (PDF is preferred, pptx files might not be rendered correctly)
+* The presenting students are expected to have camera on
+
 # Project - June 25th Thursday
 
 | Danışman                    | Öğrenci(ler)                               | Sıra | Saat          |
