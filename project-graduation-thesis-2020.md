@@ -17,7 +17,7 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | ÇAĞLA PAPATYA                              | 7    | 15:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | NARİN KORKMAZ                              | 8    | 15:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | NİSANUR ÇAKMAKÇI                           | 9    | 15:20         |
-| Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT* | 10   | 15:30         |
+| Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT  | 10   | 15:30         |
 |                             |                                            |      | 20 dakika ara |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ASLI DANSIK                                | 11   | 16:00         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | EMİRHAN TEKOĞLU                            | 12   | 16:10         |
