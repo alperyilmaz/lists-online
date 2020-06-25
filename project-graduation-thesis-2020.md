@@ -44,14 +44,14 @@
 | Prof.Dr. Dilek TURGUT-BALIK | BUSE TAŞPULAT                                | 2    | 14:10         |
 | Prof.Dr. Dilek TURGUT-BALIK | GAMZE DEVECİ                                 | 3    | 14:20         |
 | Prof.Dr. Dilek TURGUT-BALIK | NURŞAH KAYA                                  | 4    | 14:30         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | GÖZDE ENGÜVEN**, MAİDE CANYAKAR              | 5    | 14:40         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | ZEYNEP AYDIN**                               | 6    | 14:50         |
-| Doç.Dr. Emrah Şefik ABAMOR  | BÜŞRA SENA OLGAÇLI,  PINAR HELİN ERGEN       | 7    | 15:00         |
-| Doç.Dr. Emrah Şefik ABAMOR  | GİZEM ÖDER, HÜMEYRA BAŞARI                   | 8    | 15:10         |
-| Doç.Dr. Emrah Şefik ABAMOR  | HAVVA ERGİN                                  | 9    | 15:20         |
+| Doç.Dr. Emrah Şefik ABAMOR  | NECLA İPEK LOMLU**, SİNEM MADENCİOĞLU          | 5   | 14:40         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | GÖZDE ENGÜVEN**, MAİDE CANYAKAR              | 6    | 14:50         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | ZEYNEP AYDIN**                               | 7    | 15:00         |
+| Doç.Dr. Emrah Şefik ABAMOR  | BÜŞRA SENA OLGAÇLI,  PINAR HELİN ERGEN       | 8    | 15:10         |
+| Doç.Dr. Emrah Şefik ABAMOR  | GİZEM ÖDER, HÜMEYRA BAŞARI                   | 9    | 15:20         |
 |                             |                                              |      | 20 dakika ara |
-| Doç.Dr. Emrah Şefik ABAMOR  | İREM BİRLİK                                  | 10   | 15:50         |
-| Doç.Dr. Emrah Şefik ABAMOR  | NECLA İPEK LOMLU, SİNEM MADENCİOĞLU          | 11   | 16:00         |
+| Doç.Dr. Emrah Şefik ABAMOR  | HAVVA ERGİN                                  | 10    | 15:50         |
+| Doç.Dr. Emrah Şefik ABAMOR  | İREM BİRLİK                                  | 11   | 16:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | RECEPCAN ATLI                                | 12   | 16:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | SEDA NUR FETVACIOĞLU                         | 13   | 16:20         |
 | Doç.Dr. Emrah Şefik ABAMOR  | YAREN BÜYÜKÇOLAK                             | 14   | 16:30         |
