@@ -7,7 +7,7 @@
 
 # Project - June 25th Thursday
 
-| Danışman                    | Öğrenci(ler)                               | Sıra | Saat          |
+| Advisor                     | Student(s)                                 | Order | Time         |
 |-----------------------------|--------------------------------------------|------|---------------|
 | Prof.Dr. Dilek TURGUT-BALIK | BEGÜM SEVİM ERBAK                          | 1    | 14:00         |
 | Prof.Dr. Dilek TURGUT-BALIK | İREM ALTINAY                               | 2    | 14:10         |
@@ -19,14 +19,14 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | NARİN KORKMAZ                              | 8    | 15:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | NİSANUR ÇAKMAKÇI                           | 9    | 15:20         |
 | Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT  | 10   | 15:30         |
-|                             |                                            |      | 20 dakika ara |
+|                             |                                            |      | 20 mins break |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ASLI DANSIK                                | 11   | 16:00         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | EMİRHAN TEKOĞLU                            | 12   | 16:10         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | MEHMET GÜNEŞ                               | 13   | 16:20         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | RABİA YILMAZ, TUĞBA NUR ÖZKAN              | 14   | 16:30         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | ELİF NUR YILDIZ*, KADER DEREN               | 15   | 16:40         |
-| Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN*, SHIFA ALHAMVİ*                  | 16   | 16:50         |
-|                             |                                            |      | 10 dakika ara |
+| Dr.Öğr.Üyesi Alper YILMAZ   | ELİF NUR YILDIZ*, KADER DEREN              | 15   | 16:40         |
+| Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN*, SHIFA ALHAMVİ*                | 16   | 16:50         |
+|                             |                                            |      | 10 mins break |
 | Prof.Dr. Dilek TURGUT-BALIK | SEVGİSU EĞİLMEZ*                           | 17   | 17:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | SENA HACER YAZAR*                          | 18   | 17:20         |
 | Doç.Dr. Emrah Şefik ABAMOR  | BERİKA AKSOY*, CEYDA CEYLAN                | 19   | 17:30         |
@@ -35,23 +35,23 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | SEDANUR ÖZTAV*                             | 22   | 18:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | İPEK MİMOZA YAĞAN                             | 23   | 18:10         |
 
-\* 15.00 – 16.15 sınav
+\* have exam between 15.00 – 16.15
 
 # Graduation Thesis - June 26th Friday
 
-| Danışman                    | Öğrenci(ler)                                 | Sıra | Saat          |
+| Advisor                     | Student(s)                                   | Order | Time         |
 |-----------------------------|----------------------------------------------|------|---------------|
 | Prof.Dr. Dilek TURGUT-BALIK | ABDULLAH ENES DOĞRUSOY,  VEYSEL ÖZBAY        | 1    | 14:00         |
 | Prof.Dr. Dilek TURGUT-BALIK | BUSE TAŞPULAT                                | 2    | 14:10         |
 | Prof.Dr. Dilek TURGUT-BALIK | GAMZE DEVECİ                                 | 3    | 14:20         |
 | Prof.Dr. Dilek TURGUT-BALIK | NURŞAH KAYA                                  | 4    | 14:30         |
-| Doç.Dr. Emrah Şefik ABAMOR  | NECLA İPEK LOMLU**, SİNEM MADENCİOĞLU          | 5   | 14:40         |
+| Doç.Dr. Emrah Şefik ABAMOR  | NECLA İPEK LOMLU**, SİNEM MADENCİOĞLU        | 5    | 14:40         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | GÖZDE ENGÜVEN**, MAİDE CANYAKAR              | 6    | 14:50         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ZEYNEP AYDIN**                               | 7    | 15:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | BÜŞRA SENA OLGAÇLI,  PINAR HELİN ERGEN       | 8    | 15:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | GİZEM ÖDER, HÜMEYRA BAŞARI                   | 9    | 15:20         |
-|                             |                                              |      | 20 dakika ara |
-| Doç.Dr. Emrah Şefik ABAMOR  | HAVVA ERGİN                                  | 10    | 15:50         |
+|                             |                                              |      | 20 mins break |
+| Doç.Dr. Emrah Şefik ABAMOR  | HAVVA ERGİN                                  | 10   | 15:50         |
 | Doç.Dr. Emrah Şefik ABAMOR  | İREM BİRLİK                                  | 11   | 16:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | RECEPCAN ATLI                                | 12   | 16:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | SEDA NUR FETVACIOĞLU                         | 13   | 16:20         |
@@ -60,7 +60,6 @@
 | Dr.Öğr.Üyesi Alper YILMAZ   | ASLI DANSIK, EMİNE BEYZA ÇANDIR, SELCAN AKAR | 16   | 16:50         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | DERYA ALPAYDIN, EMİRHAN TEKOĞLU              | 17   | 17:00         |
 
-\** 16:00-17:40 mazaret sınavı
+\** have exam between 16:00-17:40
 
-
-*son güncelleme: 25 Haziran, 13:30*
+*last update: June 25th, 13:30*
