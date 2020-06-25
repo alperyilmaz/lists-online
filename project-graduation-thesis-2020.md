@@ -32,6 +32,7 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | BURCU YALÇINER*                            | 20   | 17:40         |
 | Doç.Dr. Emrah Şefik ABAMOR  | GAMZE DEVECİ*                              | 21   | 17:50         |
 | Doç.Dr. Emrah Şefik ABAMOR  | SEDANUR ÖZTAV*                             | 22   | 18:00         |
+| Doç.Dr. Emrah Şefik ABAMOR  | İPEK MİMOZA YAĞAN                             | 23   | 18:10         |
 
 \* 15.00 – 16.15 sınav
 
