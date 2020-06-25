@@ -17,7 +17,7 @@
 | Doç.Dr. Emrah Şefik ABAMOR  | ÇAĞLA PAPATYA                              | 7    | 15:00         |
 | Doç.Dr. Emrah Şefik ABAMOR  | NARİN KORKMAZ                              | 8    | 15:10         |
 | Doç.Dr. Emrah Şefik ABAMOR  | NİSANUR ÇAKMAKÇI                           | 9    | 15:20         |
-| Doç.Dr. Emrah Şefik ABAMOR  | SENA HACER YAZAR                           | 10   | 15:30         |
+| Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT* | 10   | 15:30         |
 |                             |                                            |      | 20 dakika ara |
 | Dr.Öğr.Üyesi Alper YILMAZ   | ASLI DANSIK                                | 11   | 16:00         |
 | Dr.Öğr.Üyesi Alper YILMAZ   | EMİRHAN TEKOĞLU                            | 12   | 16:10         |
@@ -27,7 +27,7 @@
 | Dr.Öğr.Üyesi Alper YILMAZ   | NURHAN CAN*, SHIFA ALHAMVİ*                  | 16   | 16:50         |
 |                             |                                            |      | 10 dakika ara |
 | Prof.Dr. Dilek TURGUT-BALIK | SEVGİSU EĞİLMEZ*                           | 17   | 17:10         |
-| Doç.Dr. Emrah Şefik ABAMOR  | ARZU KASABALI, MERVE ERDEM,  SEDA BOZKURT* | 18   | 17:20         |
+| Doç.Dr. Emrah Şefik ABAMOR  | SENA HACER YAZAR*                          | 18   | 17:20         |
 | Doç.Dr. Emrah Şefik ABAMOR  | BERİKA AKSOY*, CEYDA CEYLAN                | 19   | 17:30         |
 | Doç.Dr. Emrah Şefik ABAMOR  | BURCU YALÇINER*                            | 20   | 17:40         |
 | Doç.Dr. Emrah Şefik ABAMOR  | GAMZE DEVECİ*                              | 21   | 17:50         |
