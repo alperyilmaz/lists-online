@@ -1,6 +1,8 @@
 # Project and Graduation Thesis Presentation Schedule
 *June 25th, 2021*
 
+This page is reachable at https://bit.ly/bym-present
+
 ## Instructions
 
 * Please have your presentation file ready for upload. PDF is preferred, pptx files might not be rendered correctly
