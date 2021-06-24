@@ -1,4 +1,7 @@
-# Instructions
+# Project and Graduation Thesis Presentation Schedule
+*June 25th, 2021*
+
+## Instructions
 
 * Please have your presentation file ready for upload. PDF is preferred, pptx files might not be rendered correctly
 * The presenting students are expected to have camera on
