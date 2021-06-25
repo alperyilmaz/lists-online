@@ -7,7 +7,7 @@ This page is reachable at https://bit.ly/bym-present
 
 * You can share your screen to present.
 * The presenting students are expected to have camera on
-* Your presentation should take no more than 8 mins. 2 mins will be used for Q/A session
+* Your presentation should take no more than 8 mins. 2 mins will be used for Q/A session. If there are two or more students please try to limit your presentation at 15 mins.
 * Please use the [Zoom meeting link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=c05e3276-c1e3-4611-96e5-58c08a5ae66c) to connect to afternoon session.Please connect the room before your scheduled time to prevent delays
 
 ## Graduation Thesis
@@ -48,15 +48,15 @@ Resuming after lunch break
 | Prof.Dr. Dilek TURGUT-BALIK | Saniye Selinay Akkulak, Melis Yalçın, Tuğba Yazıcı           | 5         | 14:40          |
 | Prof.Dr. Dilek TURGUT-BALIK | Aleyna Tuna, Hira Naz Çomoğlu, Abdullah Rüçhan Özdemir, Sena Nur Gökalp | 6         | 14:50          |
 |                             |                                                              |           | 10 mins break    |
-| Prof.Dr. Dilek TURGUT-BALIK | Furkan Öztekin, Zeynep Serrnur Köroğlu, Sinem Nigiz          | 7         | 15:00          |
-| Prof.Dr. Dilek TURGUT-BALIK | Gözde Çelik, Yağmur Şimşek                                   | 8         | 15:10          |
-| Prof.Dr. Dilek TURGUT-BALIK | Mustafa Necati Haşimoğlu                                     | 9         | 15:20          |
-| Doç.Dr. Emrah Şefik ABAMOR  | Şevval Tüylü, Merve Erbaylar, Elif Varol, Melis Özge Ak      | 10        | 15:30          |
-| Doç.Dr. Emrah Şefik ABAMOR  | Ayşe Betül Bingöl, Elif Durası, Mert Başkadem                | 11        | 15:40          |
-| Doç.Dr. Emrah Şefik ABAMOR  | Hilal Sancaktutan, Emine Tuğçe Aysoy, Öznur Ilıca, Elif Hilal Akcıl | 12        | 15:50          |
+| Prof.Dr. Dilek TURGUT-BALIK | Furkan Öztekin, Zeynep Serrnur Köroğlu, Sinem Nigiz          | 7         | 15:10          |
+| Prof.Dr. Dilek TURGUT-BALIK | Gözde Çelik, Yağmur Şimşek                                   | 8         | 15:20          |
+| Prof.Dr. Dilek TURGUT-BALIK | Mustafa Necati Haşimoğlu                                     | 9         | 15:30          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Şevval Tüylü, Merve Erbaylar, Elif Varol, Melis Özge Ak      | 10        | 15:40          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Ayşe Betül Bingöl, Elif Durası, Mert Başkadem                | 11        | 15:50          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Hilal Sancaktutan, Emine Tuğçe Aysoy, Öznur Ilıca, Elif Hilal Akcıl | 12        | 16:00          |
 |                             |                                                              |           | 10 mins break  |
-| Doç.Dr. Emrah Şefik ABAMOR  | Şeyma Nur Polat, Bilge Yılmaz, Abdulhadi Kseibi              | 13        | 16:10          |
-| Doç.Dr. Emrah Şefik ABAMOR  | Eylül Er, Figen Cesur, Miray Bombom, Armita Safari           | 14        | 16:20          |
-| Doç.Dr. Emrah Şefik ABAMOR  | Muhammet Gylyjov, Ahmad Safwan Eshkita, Itır Ağırdemir, Şeyda Öykü Özlem | 15        | 16:30          |
-| Dr.Öğr.Üyesi Alper YILMAZ   | Aybüke Canım, Burcu Sayın                                    | 16        | 16:40          |
-| Dr.Öğr.Üyesi Alper YILMAZ   | Semih Çağan                                                  | 17        | 16:50          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Şeyma Nur Polat, Bilge Yılmaz, Abdulhadi Kseibi              | 13        | 16:25          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Eylül Er, Figen Cesur, Miray Bombom, Armita Safari           | 14        | 16:35          |
+| Doç.Dr. Emrah Şefik ABAMOR  | Muhammet Gylyjov, Ahmad Safwan Eshkita, Itır Ağırdemir, Şeyda Öykü Özlem | 15        | 16:45          |
+| Dr.Öğr.Üyesi Alper YILMAZ   | Aybüke Canım, Burcu Sayın                                    | 16        | 17:00          |
+| Dr.Öğr.Üyesi Alper YILMAZ   | Semih Çağan                                                  | 17        | 17:10          |
