@@ -5,10 +5,10 @@ This page is reachable at https://bit.ly/bym-present
 
 ## Instructions
 
-* Please have your presentation file ready for upload. PDF is preferred, pptx files might not be rendered correctly
+* You can share your screen to present.
 * The presenting students are expected to have camera on
 * Your presentation should take no more than 8 mins. 2 mins will be used for Q/A session
-* Please use the [Zoom meeting link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=c05e3276-c1e3-4611-96e5-58c08a5ae66c) to connect to morning session.Please connect the room before your scheduled time to prevent delays
+* Please use the [Zoom meeting link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=c05e3276-c1e3-4611-96e5-58c08a5ae66c) to connect to afternoon session.Please connect the room before your scheduled time to prevent delays
 
 ## Graduation Thesis
 
