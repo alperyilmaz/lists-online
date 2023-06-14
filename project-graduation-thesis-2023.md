@@ -31,7 +31,7 @@ This page is reachable at https://bit.ly/bym-present-2023
 | Doç.Dr. Emrah Şefik ABAMOR  |  Zeynep KANTER - Özge KIR - Arzum TEKİN         | 8         | 10:35         |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Çağla KAYA - Emine YILDIZ - Ecem KÖMÜRLÜ       | 9         | 10:45         |
 |                             |                                                 |           | 30 mins break |
-|                             |                                                 |           | please use second zoom link  afterwards |
+|                             |  room change please join zoom at [link2](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)                     |           | please use second zoom link  afterwards |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Aleyna KÖSE - Kardelen ÇAVUŞ - İrem Gülbeyaz TUNÇER - Oğuzhan KARAĞÖZ | 10        | 11:30         |
 | Doç.Dr. Emrah Şefik ABAMOR  |                                                 | 11        | 11:45         |
 | Doç.Dr. Alper YILMAZ   | MELİKE AKDAĞ                                         | 12        | 11:55         |
