@@ -12,7 +12,7 @@ This page is reachable at https://bit.ly/bym-present-2023
   * no more than 8 mins. 2 mins will be used for Q/A session (Project)
   * no more than 13 mins. 2 mins will be used for Q/A session (Graduation Thesis) . 
   * If there are more too many stuents in single project than presentation might be slightly longer.
-- Please use the Zoom meeting link1 (between 9-11) and link2 (between 11-17) to connect. Please join the room before your scheduled time to prevent delays
+- Please use the Zoom meeting [link1](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=101b8365-8e71-4282-bd9c-629938958b60) (between 9-11) and [link2](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a) (between 11-17) to connect. Please join the room before your scheduled time to prevent delays
 
 ## Project presentation schedule
 
