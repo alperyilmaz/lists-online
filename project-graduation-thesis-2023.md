@@ -19,7 +19,7 @@ This page is reachable at https://bit.ly/bym-present-2023
 **please refresh this page frequently, the schedule will be updated if there are any delays or techical problems**
 
 | **Advisor**                 | **Student(s)**                            | **Order** | **Time**      |
-| --------------------------- | ----------------------------------------- | --------- | ------------- |
+| --------------------------- | ----------------------------------------- | :-------: | :-----------: |
 | Prof.Dr. Dilek TURGUT-BALIK |  NOUR CHICKH MOHAMAD - MERYEM GAZAL - SHAM RAI  | 1         | 09:15         |
 | Prof.Dr. Dilek TURGUT-BALIK |  AZRA NUR ERDEN - SILA NURSU YÜCEL              | 2         | 09:30         |
 | Prof.Dr. Dilek TURGUT-BALIK |  HALE DABBAG                                    | 3         | 09:45         |
