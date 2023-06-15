@@ -1,6 +1,6 @@
-# Project and Graduation Thesis Presentation Schedule
+# Graduation Thesis Presentation Schedule
 
-June 15th, 2023
+June 16th, 2023
 
 This page is reachable at https://bit.ly/bym-present-2023
 
@@ -9,37 +9,30 @@ This page is reachable at https://bit.ly/bym-present-2023
 - You can share your screen to present.
 - The presenting students are expected to have camera on
 - Your presentation should take 
-  * no more than 8 mins. 2 mins will be used for Q/A session (Project)
   * no more than 13 mins. 2 mins will be used for Q/A session (Graduation Thesis) . 
   * If there are too many stuents in single project then presentation might be slightly longer.
-- Please use the Zoom meeting [link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)to connect. Please join the room before your scheduled time to prevent delays
+- Please use the Zoom meeting [link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=3a82cbc4-48b5-4d72-8e07-d100cad2c96f) to connect. Please join the room before your scheduled time to prevent delays
 
-## Project presentation schedule
+## Graduation thesis presentation schedule
 
 **please refresh this page frequently, the schedule will be updated if there are any delays or techical problems**
 
 | **Advisor**                 | **Student(s)**                            | **Order** | **Time**      |
 | --------------------------- | ----------------------------------------- | --------- | ------------- |
-| Prof.Dr. Dilek TURGUT-BALIK |  NOUR CHICKH MOHAMAD - MERYEM GAZAL - SHAM RAI  | 1         | 09:15         |
-| Prof.Dr. Dilek TURGUT-BALIK |  AZRA NUR ERDEN - SILA NURSU YÜCEL              | 2         | 09:25         |
-| Prof.Dr. Dilek TURGUT-BALIK |  HALE DABBAG                                    | 3         | 09:35         |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Emine TAYRAN - Ayşenur SAKOĞLU - Beyza GÖZÜKÜÇÜK | 4         | 09:45         |
-|                             |                                                 |           | 5 mins break |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Şimal GEDİK - Merve AĞAY - Doğa GEZER - Chilanay Rzasoylu | 5         | 10:00         |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Yaren FİDAN - Şevval ŞAHİN                     | 6         | 10:15         |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Abdurahman SALIHOĞLU - Belal ABDULLAH - Tuqa HLOUBİ | 7         | 10:25         |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Zeynep KANTER - Özge KIR - Arzum TEKİN         | 8         | 10:35         |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Çağla KAYA - Emine YILDIZ - Ecem KÖMÜRLÜ       | 9         | 10:45         |
-|                             |                                                 |           | 30 mins break |
-|                             |  room change please join zoom at [link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)                     |           | please use second zoom link  afterwards |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Aleyna KÖSE - Kardelen ÇAVUŞ - İrem Gülbeyaz TUNÇER - Oğuzhan KARAĞÖZ | 10        | 11:30         |
-| Doç.Dr. Emrah Şefik ABAMOR  |                                                 | 11        | 11:45         |
-| Doç.Dr. Alper YILMAZ   | MELİKE AKDAĞ                                         | 12        | 13:30         |
-| Doç.Dr. Alper YILMAZ   | YAĞMUR AYIKLAR - SEFA MÜCAHİD YAVUZ                  | 13        | 13:40         |
-| Doç.Dr. Alper YILMAZ   | NEŞE ERDOĞAN - SELİN NUR CAN                         | 14        | 13:50         |
-| Doç.Dr. Alper YILMAZ   | ZEYNEP SÜNBÜL - CANAN BOZYOKUŞ                       | 15        | 14:00         |
-|                        |                                                      |           | 10 mins break |
-| Doç.Dr. Alper YILMAZ   | MERT ÇALIŞKAN                                        | 16        | 14:20         |
-| Doç.Dr. Alper YILMAZ   | PELİN GÜN - AYŞE ŞULE UÇAR                           | 17        | 14:30         |
-| Doç.Dr. Alper YILMAZ   | REFİYE İCLAL MERİÇ                                   | 18        | 14:40         |
-| Doç.Dr. Alper YILMAZ   | ELİF OCAK - YAREN YÜCEL                              | 19        | 14:50         |
+| Prof.Dr. Dilek TURGUT-BALIK |  AHMET SAFİ                               | 1         | 09:15         |
+| Prof.Dr. Dilek TURGUT-BALIK |  MERT BERKAY KARAAĞAÇ                     | 2         | 09:30         |
+| PDoç.Dr. Emrah Şefik ABAMOR  |  Zişan Toprak - Melisa Özkan - Melisa Demirci - İlayda Gençer  | 3         | 09:45        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Elmira Taghiyeva                         | 4         | 10:00        |
+|                             |                                           |           | 5 mins break |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Beyza GÖZÜKÜÇÜK - Binnaz Selda YARDIMCI  | 5         | 10:20        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Melissa ATİLA - İLAYDA DERYA ORTULOĞLU   | 6         | 10:35        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Sena Nur Gökalp - Tuğçe Tüten - Ecem Kızıldağ  | 7   | 10:50        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Burakhan TOY - Robiyai İSMATULLOZODA     | 8         | 11:05        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Ayça ÇAPA - Mina GÜNER - Sıla YILMAZ     | 9         | 11:20        |
+|                             |                                           |           | 5 mins break |
+| Doç.Dr. Alper YILMAZ   |  MERT ÇALIŞKAN                                 | 10        | 11:40        |
+| DDoç.Dr. Alper YILMAZ  |  PELİN GÜN - AYŞE ŞULE UÇAR                    | 11        | 11:55        |
+| Doç.Dr. Alper YILMAZ   | ZEYNEP YILDIZ                                  | 12        | 12:10        |
+| Doç.Dr. Alper YILMAZ   | ZEYNEP İKLİL ÇEB                               | 13        | 12:25        |
+| Doç.Dr. Alper YILMAZ   | NEŞE ERDOĞAN - SELİN NUR CAN                   | 14        | 12:40        |
+| Doç.Dr. Alper YILMAZ   | ZCYRILLE MESUE NJUME - ATAKAN ÜNLÜ             | 15        | 12:55        |
