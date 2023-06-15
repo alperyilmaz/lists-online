@@ -12,7 +12,7 @@ This page is reachable at https://bit.ly/bym-present-2023
   * no more than 8 mins. 2 mins will be used for Q/A session (Project)
   * no more than 13 mins. 2 mins will be used for Q/A session (Graduation Thesis) . 
   * If there are too many stuents in single project then presentation might be slightly longer.
-- Please use the Zoom meeting [link1](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=101b8365-8e71-4282-bd9c-629938958b60) (between 9-11) and [link2](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a) (between 11-17) to connect. Please join the room before your scheduled time to prevent delays
+- Please use the Zoom meeting [link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)to connect. Please join the room before your scheduled time to prevent delays
 
 ## Project presentation schedule
 
@@ -31,15 +31,15 @@ This page is reachable at https://bit.ly/bym-present-2023
 | Doç.Dr. Emrah Şefik ABAMOR  |  Zeynep KANTER - Özge KIR - Arzum TEKİN         | 8         | 10:35         |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Çağla KAYA - Emine YILDIZ - Ecem KÖMÜRLÜ       | 9         | 10:45         |
 |                             |                                                 |           | 30 mins break |
-|                             |  room change please join zoom at [link2](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)                     |           | please use second zoom link  afterwards |
+|                             |  room change please join zoom at [link](http://online.yildiz.edu.tr/JoinMeeting?organizationid=646bebbc-56ee-42fb-84b7-9ca8d19339bf&meetingid=9d0f6cd5-1a5a-4dd5-afe7-082efa5e9c3a)                     |           | please use second zoom link  afterwards |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Aleyna KÖSE - Kardelen ÇAVUŞ - İrem Gülbeyaz TUNÇER - Oğuzhan KARAĞÖZ | 10        | 11:30         |
 | Doç.Dr. Emrah Şefik ABAMOR  |                                                 | 11        | 11:45         |
-| Doç.Dr. Alper YILMAZ   | MELİKE AKDAĞ                                         | 12        | 11:55         |
-| Doç.Dr. Alper YILMAZ   | YAĞMUR AYIKLAR - SEFA MÜCAHİD YAVUZ                  | 13        | 12:05         |
-| Doç.Dr. Alper YILMAZ   | NEŞE ERDOĞAN - SELİN NUR CAN                         | 14        | 12:15         |
-|                        |                                                      |           | 30 mins break |
-| Doç.Dr. Alper YILMAZ   | ZEYNEP SÜNBÜL - CANAN BOZYOKUŞ                       | 15        | 13:00         |
-| Doç.Dr. Alper YILMAZ   | MERT ÇALIŞKAN                                        | 16        | 13:10         |
-| Doç.Dr. Alper YILMAZ   | PELİN GÜN - AYŞE ŞULE UÇAR                           | 17        | 13:20         |
-| Doç.Dr. Alper YILMAZ   | REFİYE İCLAL MERİÇ                                   | 18        | 13:30         |
-| Doç.Dr. Alper YILMAZ   | ELİF OCAK - YAREN YÜCEL                              | 19        | 13:40         |
+| Doç.Dr. Alper YILMAZ   | MELİKE AKDAĞ                                         | 12        | 13:30         |
+| Doç.Dr. Alper YILMAZ   | YAĞMUR AYIKLAR - SEFA MÜCAHİD YAVUZ                  | 13        | 13:40         |
+| Doç.Dr. Alper YILMAZ   | NEŞE ERDOĞAN - SELİN NUR CAN                         | 14        | 13:50         |
+| Doç.Dr. Alper YILMAZ   | ZEYNEP SÜNBÜL - CANAN BOZYOKUŞ                       | 15        | 14:00         |
+|                        |                                                      |           | 10 mins break |
+| Doç.Dr. Alper YILMAZ   | MERT ÇALIŞKAN                                        | 16        | 14:20         |
+| Doç.Dr. Alper YILMAZ   | PELİN GÜN - AYŞE ŞULE UÇAR                           | 17        | 14:30         |
+| Doç.Dr. Alper YILMAZ   | REFİYE İCLAL MERİÇ                                   | 18        | 14:40         |
+| Doç.Dr. Alper YILMAZ   | ELİF OCAK - YAREN YÜCEL                              | 19        | 14:50         |
