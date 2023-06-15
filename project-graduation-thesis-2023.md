@@ -28,9 +28,9 @@ This page is reachable at https://bit.ly/bym-present-2023
 | Doç.Dr. Emrah Şefik ABAMOR  |  Melissa ATİLA - İLAYDA DERYA ORTULOĞLU   | 6         | 10:35        |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Sena Nur Gökalp - Tuğçe Tüten - Ecem Kızıldağ  | 7   | 10:50        |
 | Doç.Dr. Emrah Şefik ABAMOR  |  Burakhan TOY - Robiyai İSMATULLOZODA     | 8         | 11:05        |
-| Doç.Dr. Emrah Şefik ABAMOR  |  Ayça ÇAPA - Mina GÜNER - Sıla YILMAZ     | 9         | 11:20        |
+| Doç.Dr. Alper YILMAZ        |  MERT ÇALIŞKAN                            | 9        | 11:20        |
 |                             |                                           |           | 5 mins break |
-| Doç.Dr. Alper YILMAZ   |  MERT ÇALIŞKAN                                 | 10        | 11:40        |
+| Doç.Dr. Emrah Şefik ABAMOR  |  Ayça ÇAPA - Mina GÜNER - Sıla YILMAZ     | 10         | 11:40        |
 | DDoç.Dr. Alper YILMAZ  |  PELİN GÜN - AYŞE ŞULE UÇAR                    | 11        | 11:55        |
 | Doç.Dr. Alper YILMAZ   | ZEYNEP YILDIZ                                  | 12        | 12:10        |
 | Doç.Dr. Alper YILMAZ   | ZEYNEP İKLİL ÇEB                               | 13        | 12:25        |
